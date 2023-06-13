@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "114740594447",
+    "project_id": "plie-ad89f",
+    "storage_bucket": "plie-ad89f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114740594447:android:09b6e8234931d34b16607a",
+        "android_client_info": {
+          "package_name": "com.techerudite.plie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114740594447-502m7f16vuq24inijc9k0qrcqc9bo1d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUFNSKjr_bDZoK-ec4wGxQo1y022C9JhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114740594447-502m7f16vuq24inijc9k0qrcqc9bo1d3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "114740594447-6cjsdlb12gtt31pga7f00cf2kshmrtbp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techerudite.plie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

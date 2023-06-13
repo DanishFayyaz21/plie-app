@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Plie</string>
+
+    <string name="facebook_app_id">5372741939470087</string>
+    <string name="fb_login_protocol_scheme">fb5372741939470087</string>
+    <string name="facebook_client_token">ada1d1bb4f573b685ade1caabe29037c</string>
+</resources>

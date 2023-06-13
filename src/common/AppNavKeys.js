@@ -1,0 +1,21 @@
+export default NavConfig = {
+  LandingPage: "LandingPage",
+  Register: "Register",
+  Login: "Login",
+  Verification: "Verification",
+  ForgotPassword: "ForgotPassword",
+  ResetPassword: "ResetPassword",
+  Home: "Home",
+  Search: "Search",
+  Event: "Event",
+  Favourite: "Favourite",
+  UpdateProfile: "UpdateProfile",
+  ChangePassword: "ChangePassword",
+  General: "General",
+  Schedule: "Schedule",
+  Artists: "Artists",
+  Tickets: "Tickets",
+  Others: "Others",
+  EventDetail: "EventDetail",
+  AddEvent: "AddEvent"
+};

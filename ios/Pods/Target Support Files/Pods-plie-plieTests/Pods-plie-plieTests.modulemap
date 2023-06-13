@@ -1,0 +1,6 @@
+framework module Pods_plie_plieTests {
+  umbrella header "Pods-plie-plieTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
